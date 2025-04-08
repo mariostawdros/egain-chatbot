@@ -7,9 +7,7 @@ A simple chatbot that helps customers track their lost packages. Built using van
 [screen-capture (20).webm](https://github.com/user-attachments/assets/371e6d1f-0075-4b14-9ea5-e47715accafb)
 
 ## Flowchart
-![Uploading flo<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
-RequestId:267cc7b6-b01e-00df-5651-a84a0b000000
-Time:2025-04-08T06:42:39.0023296Z</Message><AuthenticationErrorDetail>Signed expiry time [Tue, 08 Apr 2025 06:08:18 GMT] must be after signed start time [Tue, 08 Apr 2025 06:42:39 GMT]</AuthenticationErrorDetail></Error>wchart egain.png…]()
+![image](https://github.com/user-attachments/assets/35e9f633-ffea-4b1d-8754-bf68c5af2fbc)
 
 ## Installation
 
