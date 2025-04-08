@@ -46,7 +46,7 @@ cd egain-chatbot
 ## Brief Explanation of My Approach
 For this project, I wanted to create a simple, clean, and functional chatbot that could simulate tracking a lost package — something you'd expect to use on a real e-commerce website. I stuck to using just HTML, CSS, and JavaScript to keep the app lightweight and browser-friendly, while still showcasing thoughtful interaction design and technical depth.
 
-🔹 Conversation Design
+🔹 Conversation Design: 
 I started by mapping out the core conversation flow. The goal was to simulate a user asking about a lost package and the bot providing helpful responses like:
  - “Out for delivery”
  - “In transit”
@@ -54,7 +54,7 @@ I started by mapping out the core conversation flow. The goal was to simulate a 
  - “Delivered”
 The bot starts with a greeting and a request for a tracking number. From there, it replies based on simulated statuses, using bold formatting and clean spacing to make the replies readable. The conversation tree is kept short and intentional to reflect real-world chatbot patterns.
 
-🔹 Frontend Implementation
+🔹 Frontend Implementation: 
 The frontend was built with no frameworks — just plain HTML, CSS, and JavaScript. This decision made it super easy to run everything in the browser without needing a backend server or any build tools.
 - The HTML defines the structure: logo, chat window, input field.
 - The CSS styles the layout, including a dark theme, message bubble alignment, and subtle animations.
@@ -65,7 +65,7 @@ The frontend was built with no frameworks — just plain HTML, CSS, and JavaScri
     * Showing a typing animation for the bot
 Everything was made to feel fast and snappy while being readable and accessible.
 
-🔹 OpenAI Integration
+🔹 OpenAI Integration: 
 I integrated OpenAI’s GPT-3.5 Turbo using the Chat Completions API. Each user input gets added to a conversation history array, which is passed along with every request to keep context. The assistant’s response is then added to the chat window using DOM manipulation.
  - Used fetch() to make the API call
  - Built a loading state that shows animated dots while waiting
