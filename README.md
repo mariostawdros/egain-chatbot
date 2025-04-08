@@ -1,4 +1,4 @@
-![flowchart egain](https://github.com/user-attachments/assets/85bf5d97-6d27-4fe7-86fd-0bc97696e942)# eGain Chatbot: Lost Package Tracker
+# eGain Chatbot: Lost Package Tracker
 A simple chatbot that helps customers track their lost packages. Built using vanilla HTML/CSS/JS and powered by OpenAI’s GPT-3.5 Turbo model. Clean design, smart conversation formatting, and real-time interaction—all running client-side.
 
 ---
