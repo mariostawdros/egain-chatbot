@@ -1,10 +1,15 @@
-# eGain Chatbot: Lost Package Tracker
+![flowchart egain](https://github.com/user-attachments/assets/85bf5d97-6d27-4fe7-86fd-0bc97696e942)# eGain Chatbot: Lost Package Tracker
 A simple chatbot that helps customers track their lost packages. Built using vanilla HTML/CSS/JS and powered by OpenAI’s GPT-3.5 Turbo model. Clean design, smart conversation formatting, and real-time interaction—all running client-side.
 
 ---
 
 ## Demo
 [screen-capture (20).webm](https://github.com/user-attachments/assets/371e6d1f-0075-4b14-9ea5-e47715accafb)
+
+## Flowchart
+![Uploading flo<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
+RequestId:267cc7b6-b01e-00df-5651-a84a0b000000
+Time:2025-04-08T06:42:39.0023296Z</Message><AuthenticationErrorDetail>Signed expiry time [Tue, 08 Apr 2025 06:08:18 GMT] must be after signed start time [Tue, 08 Apr 2025 06:42:39 GMT]</AuthenticationErrorDetail></Error>wchart egain.png…]()
 
 ## Installation
 
