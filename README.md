@@ -17,7 +17,7 @@ A simple chatbot that helps customers track their lost packages. Built using van
 - A modern web browser
 
 # 1. Clone the repository
-git clone https://github.com/your-username/egain-chatbot.git
+git clone https://github.com/mariostawdros/egain-chatbot.git
 cd egain-chatbot
 
 # 2. Open the folder in VS Code
@@ -34,7 +34,7 @@ cd egain-chatbot
   Copy
   Edit
   const CONFIG = {
-  API_KEY: "your-openai-api-key-here",
+  API_KEY: "your-openai-api-key",
   SYSTEM_PROMPT: "You are a helpful assistant that helps customers track lost packages."
   };
 
