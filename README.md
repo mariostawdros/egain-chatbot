@@ -20,14 +20,14 @@ A simple chatbot that helps customers track their lost packages. Built using van
 git clone https://github.com/your-username/egain-chatbot.git
 cd egain-chatbot
 
-# 2 Open the folder in VS Code
+# 2. Open the folder in VS Code
 
-# 3 Install Live Server extension
+# 3. Install Live Server extension
  - Open the Extensions tab (Ctrl+Shift+X or Cmd+Shift+X)
  - Search for “Live Server” by Ritwick Dey
  - Click Install
 
- # 4 Add your OpenAI API Key
+ # 4. Add your OpenAI API Key
  - Create a file called config.js in the root directory
  - Paste the following:
   js
@@ -38,7 +38,7 @@ cd egain-chatbot
   SYSTEM_PROMPT: "You are a helpful assistant that helps customers track lost packages."
   };
 
-# 5 Launch the app
+# 5. Launch the app
 - Right-click index.html in VS Code
 - Select “Open with Live Server”
 - The chatbot should open in your browser
@@ -71,7 +71,6 @@ I integrated OpenAI’s GPT-3.5 Turbo using the Chat Completions API. Each user 
  - Built a loading state that shows animated dots while waiting
  - Displayed the bot’s response once received, with formatting for readability
 
-Why This Approach?
 My goal was to keep the project simple, realistic, and clean. I wanted the chatbot to feel like something you might actually find on a real website. That’s why I avoided using libraries or frameworks — to show that even without them, you can build something responsive, modern, and interactive.
 
 By using just the essentials (HTML, CSS, JS + OpenAI), I was able to focus on writing clear logic, building a smooth user experience, and formatting conversations to look great. I think this shows both design thinking and technical ability, which is exactly what I wanted this internship project to reflect.
