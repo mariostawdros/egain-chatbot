@@ -1,5 +1,5 @@
 # eGain Chatbot: Lost Package Tracker
-A simple chatbot that helps customers track their lost packages. Built using vanilla HTML/CSS/JS and powered by OpenAI’s GPT-3.5 Turbo model. Clean design, smart conversation formatting, and real-time interaction—all running client-side.
+A simple chatbot that helps customers track their lost packages. Built using vanilla HTML/CSS/JS and powered by OpenAI’s GPT-3.5 Turbo model. Clean design, smart conversation formatting, and real-time interaction that is all running client-side.
 
 ---
 
@@ -47,7 +47,7 @@ cd egain-chatbot
 - The chatbot should open in your browser
 
 ## Brief Explanation of My Approach
-For this project, I wanted to create a simple, clean, and functional chatbot that could simulate tracking a lost package — something you'd expect to use on a real e-commerce website. I stuck to using just HTML, CSS, and JavaScript to keep the app lightweight and browser-friendly, while still showcasing thoughtful interaction design and technical depth.
+For this project, I wanted to create a simple, clean, and functional chatbot that could simulate tracking a lost package. I stuck to using just HTML, CSS, and JavaScript to keep the app lightweight and browser-friendly, while still showcasing thoughtful interaction design and technical depth.
 
 🔹 Conversation Design: 
 I started by mapping out the core conversation flow. The goal was to simulate a user asking about a lost package and the bot providing helpful responses like:
@@ -58,7 +58,7 @@ I started by mapping out the core conversation flow. The goal was to simulate a 
 The bot starts with a greeting and a request for a tracking number. From there, it replies based on simulated statuses, using bold formatting and clean spacing to make the replies readable. The conversation tree is kept short and intentional to reflect real-world chatbot patterns.
 
 🔹 Frontend Implementation: 
-The frontend was built with no frameworks — just plain HTML, CSS, and JavaScript. This decision made it super easy to run everything in the browser without needing a backend server or any build tools.
+The frontend was built with no frameworks. Just plain HTML, CSS, and JavaScript. This decision made it super easy to run everything in the browser without needing a backend server or any build tools.
 - The HTML defines the structure: logo, chat window, input field.
 - The CSS styles the layout, including a dark theme, message bubble alignment, and subtle animations.
 - The JavaScript powers the interaction:
@@ -74,6 +74,6 @@ I integrated OpenAI’s GPT-3.5 Turbo using the Chat Completions API. Each user 
  - Built a loading state that shows animated dots while waiting
  - Displayed the bot’s response once received, with formatting for readability
 
-My goal was to keep the project simple, realistic, and clean. I wanted the chatbot to feel like something you might actually find on a real website. That’s why I avoided using libraries or frameworks — to show that even without them, you can build something responsive, modern, and interactive.
+My goal was to keep the project simple, realistic, and clean. I wanted the chatbot to feel like something you might actually find on a real website. That’s why I avoided using libraries or frameworks which would show that even without them, you can build something responsive, modern, and interactive.
 
 By using just the essentials (HTML, CSS, JS + OpenAI), I was able to focus on writing clear logic, building a smooth user experience, and formatting conversations to look great. I think this shows both design thinking and technical ability, which is exactly what I wanted this internship project to reflect.
